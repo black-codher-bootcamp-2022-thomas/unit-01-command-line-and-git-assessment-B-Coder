@@ -19,7 +19,9 @@
 5. Dirty Dancing
 
 ## What I Want to Achieve During the Bootcamp:
-- Be able to fully undertsnad Front and Back end development 
+- Create a website using HTML and CSS
+- Use Node and React to create a functioning user interface
+- Have a deeper knowlodge and undertstanding of both Front and Back end development 
 - Self-Confidence in my ability as a coder
 - Guidance and advice in securing my first tech job
 - Fully transisition into the tech industry

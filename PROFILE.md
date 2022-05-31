@@ -1,4 +1,4 @@
-# _Steph Grant _
+# *Steph Grant 
 ## Bio, Education, Interests:
 - :wave: Hi, @B-Coder
 - :woman: Pronouns: She/Her

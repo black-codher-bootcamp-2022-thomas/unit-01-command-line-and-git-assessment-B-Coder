@@ -1,4 +1,4 @@
-# *Steph Grant 
+#*Steph Grant 
 ## Bio, Education, Interests:
 - :wave: Hi, @B-Coder
 - :woman: Pronouns: She/Her
@@ -9,7 +9,7 @@
 - :heart: Video Games, Anime, Tech, Anything Cute :star_struck:
 
 ## Favourite Website:
-*** https://www.amazon.co.uk ***
+https://www.amazon.co.uk
 
 ## Top 5 TV Shows or Movies:
 1. Love and Basketball

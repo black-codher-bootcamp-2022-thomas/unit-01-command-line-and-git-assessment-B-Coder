@@ -1,2 +1,4 @@
 # Steph Grant 
-## Bio, Education, Interests
+## Bio
+- 👋 Hi, @B-Coder
+- :woman: 
